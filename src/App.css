@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.dragList {
+  background: #eeeeee;
+  /*margin-bottom: 10px;*/
+  padding: 4px 0;
+}
+.drop-over-downward {
+  border-bottom: 2px dashed #3f61fb;
+}
+.drop-over-upward {
+  border-top: 2px dashed #3F61FB;
+}
